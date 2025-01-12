@@ -288,6 +288,7 @@ section p{
     background-color: rgb(57, 40, 73);
 
 }
+
 .sat-1{
  display: flex;
  justify-content: space-between;
@@ -340,4 +341,125 @@ section p{
     heit: 200px;
     border-radius: 5px;
     float: right;
+}
+
+/* donet-to-day */
+
+.dont{
+    background-color: rgb(226, 220, 220);
+    width: 930px;
+    height: 450px;
+}
+
+.don-h3{
+    padding-top: 80px;
+    text-align: center;
+    font-size: 40px;
+    color: #0E0E0E;
+
+}
+
+.donate-box{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+      width: px
+      background-color: #c0f0e4;
+      border-radius: 5px;
+      margin: 10px;
+      cursor: pointer;
+      
+}
+.btn-1d{
+    padding-top: 20px;
+    text-align: center;
+    width: 600px;
+    height: 80px;
+    padding: auto;
+    font-size: 25px;
+    border-radius: 5px;
+}
+.b-1{
+    background-color: #dce2e0;
+    color: #0e0e0ecb;
+}
+
+.b-2{
+    background-color: #C6E4D6;
+    color: #0e0e0ecb;
+
+}
+
+.input-d{
+    margin-top: 32px;
+    height: 60px;
+    text-align: center;
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+.done-btn{
+    width: 80px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #006a50;
+}
+.done-btn:hover{
+    background-color: #0E0E0E;
+    color: #C6E4D6;
+    cursor: pointer;
+}
+
+/* email-box */
+
+.pra-src{
+    margin-top: 80px;
+    width: 930px;
+    height: 280px;
+    border-radius: 5px;
+    background: #C6E4D6;
+    padding: 20px 20px;
+    margin-bottom: 50px;
+    margin-left: 0px;
+}
+
+.h2-p{
+margin-top: 40px;
+    text-align: center;
+}
+
+.box-src{
+    width: 300px;
+    text-align: center;
+}
+
+.in1{
+    position: relative;
+    text-align: center;
+    border-radius: 10px 0 0 10px;
+    border: none;
+    outline: none;
+    right: -30px;
+    cursor: pointer;
+}
+
+.in2{
+    position: relative;
+    width: 100px;
+    left: -10px;
+    height: 40px;
+    text-align: center;
+    font-size: 16px;
+    color: white;
+    background-color: #006A50;
+    border-radius: 0px 10px 10px 0px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+
+.lest-logo{
+    display: flex
+    justify-content: center;
 }
